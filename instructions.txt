@@ -1,0 +1,19 @@
+**************** INVENTORY MANAGEMENT PROGRAM ****************
+>>>>>>>>>>>>>>>>>> Short user instruction <<<<<<<<<<<<<<<<<<
+
+This program was developed to help to manage inventory.
+Program uses the .csv file which holds list of all products in stock.
+There are two main functions.
+
+Enter 1 if you want to get list of items to order. System will ask you to enter the minimum quantity of items left in stock.
+You will recieve the sorted list (by name) of items which quantity is less than you have entered. 
+The duplicates from list are removed also.
+
+Enter 2 if you want to get list of expired items. System will ask you to enter the date. Be aware to enter it in format mm/MM/yyyy
+You will recieve the sorted list (by name) of items which will expired until date you entered.
+The duplicates from list are removed also.
+
+Enter 3 if you want to exit the program.
+
+
+Enjoy!  
